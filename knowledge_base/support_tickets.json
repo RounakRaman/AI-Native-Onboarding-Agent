@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ticket_101",
+    "product_area": "billing",
+    "question": "Hey how do I change currency on my rate card after creating a retainer project?",
+    "resolution": "To update currency on an existing retainer project, go to Settings -> Organization Settings -> Currency. Select your currency (e.g. USD, EUR, INR) and toggle 'Apply to existing rate cards'. This updates your retainer billing rates automatically without changing past invoices.",
+    "status": "closed",
+    "resolution_provided": true
+  },
+  {
+    "id": "ticket_102",
+    "product_area": "invites",
+    "question": "Can I invite a client as read-only so they don't mess up our dev task board?",
+    "resolution": "Yes! Go to Project -> Team & Access -> Invite Member. Type the client email and select 'Client Viewer' from the role dropdown. They get read-only access to task status and milestone progress, but cannot edit tasks or view billable hourly rates.",
+    "status": "closed",
+    "resolution_provided": true
+  },
+  {
+    "id": "ticket_103",
+    "product_area": "projects",
+    "question": "Imported my Trello board via CSV but column names didn't map right. What to do?",
+    "resolution": "If column headers don't align during CSV import, use the Task Mapping screen during Setup Copilot or go to Project Settings -> Re-map CSV. Ensure your CSV has headers for 'Task Name', 'Status', and 'Estimated Hours'.",
+    "status": "closed",
+    "resolution_provided": true
+  },
+  {
+    "id": "ticket_104",
+    "product_area": "time-tracking",
+    "question": "Where do team members see their assigned tasks to log time daily?",
+    "resolution": "Team members can view assigned work by clicking 'My Tasks' on the left navigation bar or switching to 'Assigned to Me' filter on the main project board. Click 'Log Time' directly on any task card to log hours.",
+    "status": "closed",
+    "resolution_provided": true
+  },
+  {
+    "id": "ticket_105",
+    "product_area": "invoicing",
+    "question": "Can we set up milestone billing so invoices trigger when a milestone completes?",
+    "resolution": "Yes! Under Billing -> Rate Cards, select project shape 'Fixed Milestone'. Define your milestones (e.g. 50% Upfront, 50% Delivery). When all tasks in a milestone are marked Done on the board, a draft invoice notification is auto-generated.",
+    "status": "closed",
+    "resolution_provided": true
+  }
+]

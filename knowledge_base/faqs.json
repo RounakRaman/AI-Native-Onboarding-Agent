@@ -1,1 +1,44 @@
-
+[
+  {
+    "id": "faq_001",
+    "product_area": "billing",
+    "title": "Setting Hourly vs Fixed Rates",
+    "content": "To set hourly vs fixed rates, navigate to Billing & Rate Cards from the left menu. Select your project and click Edit Rate Card. Choose between Hourly Rate (e.g. $85/hr), Fixed Milestone Fee (e.g. $5,000/milestone), or Monthly Retainer. Save changes to automatically apply these rates to future time logs."
+  },
+  {
+    "id": "faq_002",
+    "product_area": "invites",
+    "title": "Inviting Teammates directly to a Project",
+    "content": "To invite a teammate to a specific project, open the project from your Workspace, click the Team & Access tab at the top right, and click Invite Member. Enter their email address and select their role (e.g., Lead, Member, Client Viewer). They will receive an email link that drops them straight into that client project."
+  },
+  {
+    "id": "faq_003",
+    "product_area": "projects",
+    "title": "Creating New Projects and Tasks",
+    "content": "To create a project manually, click + New Project on the workspace navigation bar. Enter the client name, select project type (Design, Dev, Marketing), and choose a start date. Inside the project, click + Add Task to create tasks, assign team members, set due dates, and specify estimated hours."
+  },
+  {
+    "id": "faq_004",
+    "product_area": "time-tracking",
+    "title": "Logging Billable Time Against Tasks",
+    "content": "To log time, open your active Task Board, click on any task card, and click Log Time. Enter the hours spent and a brief work summary. Your logged hours automatically sync to the project budget tracker and draft client invoices."
+  },
+  {
+    "id": "faq_005",
+    "product_area": "invoicing",
+    "title": "Generating Draft Invoices from Logged Time",
+    "content": "To generate an invoice, go to Invoicing from the sidebar, click Create Invoice, and select your client project. Choose your billing period to auto-populate all unbilled logged time and fixed milestones according to your Rate Card. Click Export PDF or Send Draft to Client."
+  },
+  {
+    "id": "faq_006",
+    "product_area": "settings",
+    "title": "Changing Currency and Organization Details",
+    "content": "To update your currency or agency branding, click Settings at the bottom of the sidebar, go to Organization Profile, and select your preferred Default Currency (USD $, EUR €, GBP £, INR ₹). Click Save Settings."
+  },
+  {
+    "id": "faq_007",
+    "product_area": "projects",
+    "title": "Customizing Task Statuses and Board Columns",
+    "content": "To customize task statuses, open your Project Board, click Board Settings icon in the top right, and add or reorder status columns (e.g. Backlog, In Progress, Review, Done). Click Apply to update your team's workflow."
+  }
+]
